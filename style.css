@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: black;
+    text-align: center;
+}
+#hinput{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+button{
+    background-color: rgb(239, 252, 144);
+    border-radius: 10px;
+    border: rgb(15, 14, 14);
+    border: solid;
+height: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#temperatureInput{
+    width: 400px;
+    height: 50px;
+    background-color: rgb(218, 253, 61);
+    border-radius: 10px;
+    border: solid;
+    text-align: center;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#red input{
+    width: 20px;
+    height: 15px;
+}
+
